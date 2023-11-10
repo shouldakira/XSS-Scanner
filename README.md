@@ -1,4 +1,4 @@
-# 420
+# XSS Scanner
 Automated XSS Vulnerability Scanner
 
 Usage:
